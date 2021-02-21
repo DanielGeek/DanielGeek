@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 title="hehehe"> Hey there👋, I'm Daniel Ángel!</h3>
 
 <a href="https://www.linkedin.com/in/daniel-angel/">
-  <img align="left" alt="Daniel's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Daniel's LinkdeIn" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 <a href="https://www.instagram.com/daniel.angel.b/">
   <img align="left" alt="Daniel's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
