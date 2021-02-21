@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 title="hehehe"> Hey there👋, I'm Daniel Ángel!</h3>
+<h3 title="hehehe"> Hello!👋, I'm Daniel Ángel!</h3>
 
 <a href="https://www.linkedin.com/in/daniel-angel/">
   <img align="left" alt="Daniel's LinkdeIn" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
@@ -35,14 +35,14 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi there, I'm **Daniel Ángel**, a **Software Development** 🚀 from Zulia, Venezuelan, Currently living in Puerto Varas, Chile.
+Hi there, I'm **Daniel Ángel**, a **Software Development** 🚀 from Zulia, Venezuela, Currently living in Puerto Varas, Chile.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
 - 👨🏽‍💻 I’m currently working as a Semi Sr. React Developer at Zerviz.
-- 🌱 I’m currently exploring React with TypeScript with a big interest in TDD. 
+- 🌱 I’m currently exploring stack MERN with TypeScript, zendesk API a big interest in TDD. 
 - 🤔 My interests are Web Development, Mobile Development, Clean Code, TDD, CI/CD, Cloud Development eat healthy and exercise
 - 💼 I’m degree in computer technician.
 - 💬 Ask me about anything, I love to answer!
