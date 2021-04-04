@@ -76,6 +76,8 @@ Hi there, I'm **Daniel Ángel**, a **Software Development** 🚀 from Zulia, Ven
 <code title="Git"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code title="CLI"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code title="GNU Linux"><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/linux-tux.svg"></code>
+<code title="PHP"><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/php.svg"></code>
+<code title="JQuery"><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/jquery-icon.svg"></code>
 
 <img src="https://github-readme-stats.vercel.app/api?username=DanielGeek&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="DanielGeek's GitHub Stats">
 
