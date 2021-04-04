@@ -62,6 +62,7 @@ Hi there, I'm **Daniel Ángel**, a **Software Development** 🚀 from Zulia, Ven
 <code title="Redux"><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/redux.svg"></code>
 <code title="Typescript"><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/typescript-icon.svg"></code>
 <code title="React Native"><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/react.svg"></code>
+<code title="Socket.IO"><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/socket.io.svg"></code>
 <code title="Express"><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/express.svg"></code>
 <code title="Webpack"><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/webpack.svg"></code>
 <code title="Babel"><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/babel.svg"></code>
