@@ -66,6 +66,7 @@ Hi there, I'm **Daniel Ángel**, a **Software Development** 🚀 from Zulia, Ven
 <code title="Webpack"><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/webpack.svg"></code>
 <code title="Babel"><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/babel.svg"></code>
 <code title="Jest"><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/jest.svg"></code>
+<code title="AWS"><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/aws.svg"></code>
 <code title="Node"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code title="MongoDB"><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/mongodb-icon.svg"></code>
 <code title="MySQL"><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/mysql.svg"></code>
