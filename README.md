@@ -61,13 +61,16 @@ Hi there, I'm **Daniel Ángel**, a **Software Development** 🚀 from Zulia, Ven
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/redux.svg"></code>
 <code><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/typescript-icon.svg"></code>
-<code><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/nodejs-icon.svg"></code>
 <code><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/express.svg"></code>
-<code><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/express.svg"></code>
+<code><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/webpack.svg"></code>
+<code><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/babel.svg"></code>
+<code><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/jest.svg"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/mongodb-icon.svg"></code>
 <code><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/mysql.svg"></code>
+<code><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/graphql.svg"></code>
+<code><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/docker-icon.svg"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
