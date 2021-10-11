@@ -42,7 +42,7 @@ Hi there, I'm **Daniel Ángel**, a **Software Development** 🚀 from Zulia, Ven
 
 **About Me!**
 
-- 👨🏽‍💻 Nowadays, I’m working as a Semi Sr. Full Stack Developer at Zerviz.
+- 👨🏽‍💻 Nowadays, I’m working as a Semi Sr. Full Stack Developer.
 - 🌱 I’m currently exploring stack MERN with TypeScript, zendesk API and I have a big interest in TDD and AWS. 
 - 🤔 My interests are Lead Developer, Web Development, Mobile Development, Clean Code, TDD, CI/CD, Cloud Development, redux and also eat healthy and do exercises, i'm also seeing theater classes here in Chile 1 time a week.
 - 💼 I have a degree in computer technician.
