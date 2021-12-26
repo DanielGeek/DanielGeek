@@ -83,6 +83,7 @@ Hi there, I'm **Daniel Ángel**, a **Software Development** 🚀 from Zulia, Ven
 <code title="JQuery"><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/jquery-icon.svg"></code>
 <code title="Jira"><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/jira.svg"></code>
 <code title="Postgresql"><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/postgresql.svg"></code>
+<code title="ETH"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg"></code>
 
 <img src="https://github-readme-stats.vercel.app/api?username=DanielGeek&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="DanielGeek's GitHub Stats">
 
