@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 title="hehehe"> Hello!👋, I'm Daniel Ángel!</h3>
+<h3 title="hehehe"> Hello!👋, I'm Daniel Ángel Barreto!</h3>
 
 <a href="https://www.linkedin.com/in/daniel-angel/">
   <img align="left" alt="Daniel's LinkdeIn" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
@@ -43,7 +43,7 @@ Hi there, I'm **Daniel Ángel**, a **Software Development** 🚀 from Zulia, Ven
 **About Me!**
 
 - 👨🏽‍💻 Nowadays, I’m working as a Semi Sr. Full Stack Developer.
-- 🌱 I’m currently exploring stack MERN with TypeScript, zendesk API and I have a big interest in TDD and AWS. 
+- 🌱 I’m currently exploring stack MERN with TypeScript and Video Games with Criptocoins and NFT, zendesk API and I have a big interest in TDD and AWS. 
 - 🤔 My interests are Lead Developer, Web Development, Mobile Development, Clean Code, TDD, CI/CD, Cloud Development, redux and also eat healthy and do exercises, i'm also seeing theater classes here in Chile 1 time a week.
 - 💼 I have a degree in computer technician.
 - 💬 Ask me about anything, I love to answer!
