@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/daniel.angel.b/">
   <img align="left" alt="Daniel's Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
+<a href="https://www.npmjs.com/~danielgeek">
+  <img align="left" alt="Daniel's npm" width="24px" src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4" />
+</a>
 <!--
 <a href="https://www.facebook.com/">
   <img align="left" alt="Daniel's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
