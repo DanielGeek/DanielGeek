@@ -46,6 +46,7 @@ Hi there, I'm **Daniel Ángel**, a **Software Development** 🚀 from Zulia, Ven
 **About Me!**
 
 - 👨🏽‍💻 Nowadays, I’m working as a Sr. Full Stack Developer.
+- I have more than 7 years of experience as a fullstack developer.
 - 🌱 I’m currently exploring stack MERN with TypeScript and Video Games with Criptocoins and NFT, zendesk API and I have a big interest in TDD and AWS. 
 - 🤔 My interests are Lead Developer, Web Development, Mobile Development, Clean Code, TDD, CI/CD, Cloud Development, redux and also eat healthy and do exercises, i'm also in my spare time I teach programming classes to my students..
 - 💼 In my spare time I also teach programming classes.
