@@ -63,6 +63,7 @@ Hi there, I'm **Daniel Ángel**, a **Software Development** 🚀 from Zulia, Ven
 
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
 <a href="https://stackshare.io/danielgeek/my-stack" target="_blank"><code><img height="20" src="https://camo.githubusercontent.com/748cd47c21af4a2fe8c56dcf50d11dd51195f5de67eeea434ef03c1f06006147/687474703a2f2f696d672e736869656c64732e696f2f62616467652f746563682d737461636b2d3036393066612e7376673f7374796c653d666c6174"></code></a>
+<code title="Solidity"><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/python.svg"></code>
 <code title="Solidity"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg"></code>
 <code title="Javascript"><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/javascript.svg"></code>
 <code title="React"><img height="20" src="https://github.com/tomchen/stack-icons/raw/master/logos/react.svg"></code>
