@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi there, I'm **Daniel Ángel**, a **Software Development** 🚀 from Zulia, Venezuela, Currently living in Puerto Varas, Chile.
+Hi there, I'm **Daniel Ángel**, a **Software Development** 🚀.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
