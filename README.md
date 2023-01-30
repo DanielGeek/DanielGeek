@@ -45,7 +45,7 @@ Hi there, I'm **Daniel Ángel**, a **Software Development** with over +8 years o
 
 **About Me!**
 
-- 👨🏽‍💻 I'm currently focused on exploring Python, the MERN stack with TypeScript, and developing video games with cryptocurrencies and NFTs, as well as utilizing the Zendesk API.
+- 👨🏽‍💻 I'm currently focused on exploring Python, the MERN stack with TypeScript, and developing video games with cryptocurrencies and NFTs.
 - 🌱 My areas of expertise include full-stack development, TDD, CI/CD, and cloud development.
 - 
 - 🤔 In my free time, I enjoy staying active through healthy eating and exercise, and sharing my knowledge by teaching programming classes. I hold a degree in computer technology.
