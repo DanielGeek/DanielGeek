@@ -39,19 +39,17 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi there, I'm **Daniel Ángel**, a **Software Development** 🚀.
+Hi there, I'm **Daniel Ángel**, a **Software Development** with over 8 years of experience.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
-- 👨🏽‍💻 Nowadays, I’m working as a Sr. Full Stack Developer.
-- I have more than 8 years of experience as a fullstack developer.
-- 🌱 I’m currently exploring Python, stack MERN with TypeScript and Video Games with Criptocoins and NFT, zendesk API and I have a big interest in TDD and AWS. 
-- 🤔 My interests are Lead Developer, Web Development, Mobile Development, Clean Code, TDD, CI/CD, Cloud Development, redux and also eat healthy and do exercises, i'm also in my spare time I teach programming classes to my students..
-- 💼 In my spare time I also teach programming classes.
-- 💼 I have a degree in computer technician.
-- 💬 Ask me about anything, I love to answer!
+- 👨🏽‍💻 I'm currently focused on exploring Python, the MERN stack with TypeScript, and developing video games with cryptocurrencies and NFTs, as well as utilizing the Zendesk API.
+- 🌱 My areas of expertise include full-stack development, TDD, CI/CD, and cloud development.
+- 
+- 🤔 In my free time, I enjoy staying active through healthy eating and exercise, and sharing my knowledge by teaching programming classes. I hold a degree in computer technology.
+- 💬 Feel free to reach out to me about anything! I'm always happy to chat.
 <!--
  - 📫 Email me at [zamran.butt.1@gmail.com](mailto:zamran.butt.1@gmail.com).
  - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info. 
