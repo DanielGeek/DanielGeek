@@ -39,17 +39,18 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi there, I'm **Daniel Ángel**, a **Software Development** with over +9 years of experience.
+Hello, I'm **Daniel Ángel**, an **Expert Blockchain Developer and Investor** with a robust **+9 years** of experience in the tech arena.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
-- 👨🏽‍💻 I'm currently focused on exploring Python, the MERN stack with TypeScript, and developing video games with cryptocurrencies and NFTs.
-- 🌱 My areas of expertise include full-stack development, TDD, CI/CD, and cloud development.
-- 
-- 🤔 In my free time, I enjoy staying active through healthy eating and exercise, and sharing my knowledge by teaching programming classes. I hold a degree in computer technology.
-- 💬 Feel free to reach out to me about anything! I'm always happy to chat.
+- 👨🏽‍💻 At present, I am thoroughly engrossed in blockchain technology, sharpening my expertise in Python, Solidity, Rust, and the MERN stack augmented with TypeScript. My current projects involve creating state-of-the-art video games that integrate the use of cryptocurrencies and NFTs.
+- 🌱 I excel in full-stack development and am well-versed in TDD, CI/CD, and cloud-based solutions, all of which I apply to develop decentralized applications.
+- 🔗 A zealous participant in the blockchain market, I keep a close watch on emerging trends and invest strategically in ventures that promise lasting impact and innovation.
+- 🤔 I am committed to a balanced lifestyle that includes maintaining my health, mentoring through programming instruction, and engaging in conversations about new blockchain initiatives.
+- 💬 Open to discussions on technology, investment strategies, or potential collaborations, I'm all ears for anyone interested in the transformative world of blockchain.
+  
 <!--
  - 📫 Email me at [zamran.butt.1@gmail.com](mailto:zamran.butt.1@gmail.com).
  - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info. 
