@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hello, I'm **Daniel Ángel**, an **Expert Blockchain Developer and Investor** with a robust **+9 years** of experience in the tech arena.
+Hello, I'm **Daniel Ángel**, an **Expert Blockchain Developer and Investor** with a robust **+12 years** of experience in the tech arena.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
