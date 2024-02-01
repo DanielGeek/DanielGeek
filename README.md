@@ -1,4 +1,5 @@
-Daniel (dangel.eth) Ángel 
+Daniel (dangel.eth) Ángel
+
 Senior Technical Leader | 🔐 Blockchain Developer | +12 Years Experience | 🇺🇸 C1 Advanced English Speaker | Expert in Solidity, Javascript, React, Node | Rust | C | AWS | Tokenomics | 🤓 Happy to Connect!
 
 
