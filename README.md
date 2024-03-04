@@ -13,21 +13,23 @@ I started reading about blockchain and using Dapps like Coinbase, Uphold, and Bi
 
 So I started watching blockchain and smart contract courses at Udemy and Platzy to become a guru blockchain developer.
 
-A project that made me very proud to do was in Spozz, where 𝗜 𝗵𝗲𝗹𝗽𝗲𝗱 𝘁𝗵𝗲 𝗲𝗻𝘁𝗶𝗿𝗲 𝘁𝗲𝗮𝗺 𝘁𝗼 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗲 𝘀𝗺𝗮𝗿𝘁 𝗰𝗼𝗻𝘁𝗿𝗮𝗰𝘁𝘀 𝟳𝟮𝟭 𝗮𝗻𝗱 𝟭𝟭𝟱𝟱 𝗳𝗼𝗿 𝘁𝗵𝗲 𝘀𝗽𝗼𝘇𝘇 𝗡𝗙𝗧 𝗺𝗮𝗿𝗸𝗲𝘁 𝗽𝗹𝗮𝗰𝗲 𝗳𝗼𝗿 𝐦𝐨𝐫𝐞 𝐭𝐡𝐚𝐧 +𝟐𝟓,𝟎𝟎𝟎 𝗼𝗳 𝘄𝗲𝗯𝟯 𝘂𝘀𝗲𝗿𝘀 - 𝐬𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠 𝐭𝐡𝐚𝐭 𝐰𝐨𝐮𝐥𝐝 𝐧𝐞𝐯𝐞𝐫 𝐡𝐚𝐯𝐞 𝐛𝐞𝐞𝐧 𝐩𝐨𝐬𝐬𝐢𝐛𝐥𝐞 𝐢𝐟 𝐈 𝐝𝐢𝐝𝐧’𝐭 𝐬𝐭𝐚𝐫𝐭 learning about blockchain.
+𝐀 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐭𝐡𝐚𝐭 𝐦𝐚𝐝𝐞 𝐦𝐞 𝐯𝐞𝐫𝐲 𝐩𝐫𝐨𝐮𝐝 𝐭𝐨 𝐝𝐨 𝐰𝐚𝐬 𝐚𝐭 𝐒𝐩𝐨𝐳𝐳, 𝐰𝐡𝐞𝐫𝐞 𝗜 𝗵𝗲𝗹𝗽𝗲𝗱 𝘁𝗵𝗲 𝗲𝗻𝘁𝗶𝗿𝗲 𝘁𝗲𝗮𝗺 𝘁𝗼 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗲 𝘀𝗺𝗮𝗿𝘁 𝗰𝗼𝗻𝘁𝗿𝗮𝗰𝘁𝘀 𝟳𝟮𝟭 𝗮𝗻𝗱 𝟭𝟭𝟱𝟱 𝗳𝗼𝗿 𝘁𝗵𝗲 𝘀𝗽𝗼𝘇𝘇 𝗡𝗙𝗧 𝗺𝗮𝗿𝗸𝗲𝘁 𝗽𝗹𝗮𝗰𝗲 𝗳𝗼𝗿 𝐦𝐨𝐫𝐞 𝐭𝐡𝐚𝐧 +𝟐𝟓,𝟎𝟎𝟎 𝗼𝗳 𝘄𝗲𝗯𝟯 𝘂𝘀𝗲𝗿𝘀 - 𝐬𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠 𝐭𝐡𝐚𝐭 𝐰𝐨𝐮𝐥𝐝 𝐧𝐞𝐯𝐞𝐫 𝐡𝐚𝐯𝐞 𝐛𝐞𝐞𝐧 𝐩𝐨𝐬𝐬𝐢𝐛𝐥𝐞 𝐢𝐟 𝐈 𝐝𝐢𝐝𝐧’𝐭 𝐬𝐭𝐚𝐫𝐭 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐛𝐨𝐮𝐭 𝐛𝐥𝐨𝐜𝐤𝐜𝐡𝐚𝐢𝐧.
 
 In general, I consider my top 3 skills to be:
 
-• Leading Team Members to Accomplish a Shared Goal
 • Advanced Solidity Proficiency
+• Leading Team Members to Accomplish a Shared Goal
 • Developing Simple, Creative Solutions to Complex Problems
 
 I also have extensive experience with:
 
+• Go
 • ReactJS
-• NodeJS
+• NextJS
 • C
 • C++
-• Go
+• Rust
+• NodeJS
 • Python
 • Listening to Developers’ Challenges and Concerns
 • Communicating with US Clients
