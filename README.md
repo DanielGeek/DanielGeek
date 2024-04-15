@@ -17,14 +17,13 @@ So I started watching blockchain and smart contract courses at Udemy and Platzy 
 
 In general, I consider my top 3 skills to be:
 
-• Advanced Solidity Proficiency
+• Advanced Rust, Solidity, and React Proficiency
 • Leading Team Members to Accomplish a Shared Goal
 • Developing Simple, Creative Solutions to Complex Problems
 
 I also have extensive experience with:
 
 • Go
-• ReactJS
 • NextJS
 • C
 • C++
