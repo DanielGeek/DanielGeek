@@ -37,5 +37,5 @@ I also have extensive experience with:
 • Prioritizing Product Backlogs for 3 Different Products
 
 🤔 Do You Think I Can Help Your Team/Project? 
-𝗠𝗲𝘀𝘀𝗮𝗴𝗲 𝗠𝗲 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝗪𝗼𝗿𝗱 "𝗖𝗵𝗮𝘁" 𝗦𝗼 𝗪𝗲 𝗖𝗮𝗻𝘁 𝗧𝗮𝗹𝗸.
+𝗠𝗲𝘀𝘀𝗮𝗴𝗲 𝗠𝗲 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝗪𝗼𝗿𝗱 "𝗖𝗵𝗮𝘁" 𝗦𝗼 𝗪𝗲 𝗖𝗮𝗻 𝗧𝗮𝗹𝗸.
 Even if I can’t help you, perhaps I know someone who can. 👍
