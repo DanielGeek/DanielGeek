@@ -1,4 +1,4 @@
-Daniel (dangel.eth) Ángel
+Daniel Ángel Barreto
 
 Software Engineer | +12 Years Experience | 🇺🇸 C1 Advanced English Speaker | Expert Solidity, React, Node, Javascript, TypeScript  | Rust | Solana | 🤓 Happy to Connect!
 
