@@ -1,6 +1,6 @@
 Daniel Ángel Barreto
 
-Software Engineer | +12 Years Experience | 🇺🇸 C1 Advanced English Speaker | Expert Rus, Solidity, React, Node, Javascript, TypeScript | Solana | 🤓 Happy to Connect!
+Software Engineer | +12 Years Experience | 🇺🇸 C1 Advanced English Speaker | React, Node, Expert Blockchain, Rust, Solidity, Javascript, TypeScript | Solana | AI | 🤓 Happy to Connect!
 
 
 👋 Hi! I’m Daniel. Nice to meet you.
