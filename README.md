@@ -5,6 +5,9 @@ Software AI Engineer | +12 Years Experience | 🇺🇸 C1 Advanced English Speak
 
 👋 Hi! I’m Daniel. Nice to meet you.
 
+Here is my ChatBot assistant that will answer your questions about me:
+https://huggingface.co/spaces/DanielGeekAI/daniel-chatbot
+
 You might be wondering how I can help your team or your project…
 
 When I started to work as a Software Engineer for large companies, I discovered that this kind of job is much MORE than just being a good programmer.
