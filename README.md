@@ -21,14 +21,14 @@ I understood that hearing them is the best way to know how can I help the team t
 
 In general, I consider my top 3 skills to be:
 
-• Advanced Rust, Javascript and React Proficiency
+• Advanced Python, Javascript and React Proficiency
 • Leading Team Members to Accomplish a Shared Goal
 • Developing Simple, Creative Solutions to Complex Problems
 
 I also have extensive experience with:
 
 • Go
-• Python
+• Rust
 • NextJS
 • C
 • C++
