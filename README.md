@@ -1,6 +1,6 @@
 Daniel Ángel Barreto
 
-Software AI Engineer | +12 Years Experience | 🇺🇸 C1 Advanced English Speaker | Python | AI Agent | Node | React, Expert Blockchain, Rust, Solidity, Javascript, TypeScript | AI | 🤓 Happy to Connect!
+Software AI Engineer | +12 Years Experience | 🇺🇸 C1 Advanced English Speaker | Python | AI LLM Agent Engineer | Node | React, Expert Blockchain, Rust, Solidity, Javascript, TypeScript | AI | 🤓 Happy to Connect!
 
 
 👋 Hi! I’m Daniel. Nice to meet you.
